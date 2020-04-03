@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/learn-todo-list/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/learn-todo-list/static/js/main.06be327e.chunk.js",
+    "main.js.map": "/learn-todo-list/static/js/main.06be327e.chunk.js.map",
+    "runtime-main.js": "/learn-todo-list/static/js/runtime-main.0822286f.js",
+    "runtime-main.js.map": "/learn-todo-list/static/js/runtime-main.0822286f.js.map",
+    "static/css/2.de424728.chunk.css": "/learn-todo-list/static/css/2.de424728.chunk.css",
+    "static/js/2.14ee222a.chunk.js": "/learn-todo-list/static/js/2.14ee222a.chunk.js",
+    "static/js/2.14ee222a.chunk.js.map": "/learn-todo-list/static/js/2.14ee222a.chunk.js.map",
+    "index.html": "/learn-todo-list/index.html",
+    "precache-manifest.8b5c58ade191dc7f1dcbc0bdb49fb41f.js": "/learn-todo-list/precache-manifest.8b5c58ade191dc7f1dcbc0bdb49fb41f.js",
+    "service-worker.js": "/learn-todo-list/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/learn-todo-list/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/learn-todo-list/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.14ee222a.chunk.js.LICENSE.txt": "/learn-todo-list/static/js/2.14ee222a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0822286f.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.14ee222a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.06be327e.chunk.js"
+  ]
+}
